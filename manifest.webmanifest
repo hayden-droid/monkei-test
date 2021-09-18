@@ -1,0 +1,15 @@
+{
+  "background_color": "orange",
+  "description": "Shows random monkei pictures. Hey, at least it isn't cats.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "\icon\monkei-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Descendo Solutions Test Application",
+  "short_name": "Monkei",
+  "start_url": "index.html"
+}
